@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=076271&text=JinHaJUN&fontColor=FCE5CD)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=076271&text=JinHaJUN&fontSize=40&desc=welcome:\)&fontColor=FCE5CD&descAlignY=80)
 
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megi2)](https://github.com/Megi2/github-readme-stats)
 <!--
 **Megi2/Megi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
