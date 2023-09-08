@@ -14,23 +14,22 @@
 
 -----
 ### 🤔 About my github ...
-<!--
+
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megi2)](https://github.com/Megi2/github-readme-stats)
 <br/>
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megi2)](https://github.com/Megi2/github-readme-stats)
-<div>
-  
+
 -----
   
 ### :pencil2: Study log
 <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ixa294&color=dark)](https://velog.io/@ixa294)
-</div>
+
 
 -----
 ### ✨ Likes
