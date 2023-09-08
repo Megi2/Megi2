@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=#076271&text=JinHaJUN&fontColor=FCE5CD)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=#076271&text=JinHaJUN)
 
 ### Hi there 👋
 <!--
