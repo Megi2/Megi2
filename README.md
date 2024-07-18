@@ -11,6 +11,7 @@
 ### 👯Affiliation
 - 2020.03~ KyungHee Univ. Colledge of Software (Data Science track)
 - 2022.08~ KHUDA (2023.02~08 ✨Vice President)
+- 2023.11~2024.03 Naver AI BoostCamp 6th (Computer vision)
 
 -----
   
