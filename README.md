@@ -13,17 +13,6 @@
 - 2022.08~ KHUDA (2023.02~08 ✨Vice President)
 
 -----
-### 🤔 About my github ...
-
-<br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megi2)](https://github.com/Megi2/github-readme-stats)
-<br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megi2)](https://github.com/Megi2/github-readme-stats)
-
------
   
 ### :pencil2: Study log
 <br/>
